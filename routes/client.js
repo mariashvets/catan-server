@@ -1,0 +1,1 @@
+// Route everything under client folder.
