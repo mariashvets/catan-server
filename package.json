@@ -1,0 +1,21 @@
+{
+  "name": "catan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "NODE_PATH=./handlers:./modules node index.js"
+  },
+
+  "dependencies": {
+    "mime": "*",
+    "mz": "^2.4.0",
+    "request": "^2.74.0",
+    "should": "*"
+  },
+
+  "devDependencies" : {
+  }
+}
+
